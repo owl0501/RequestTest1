@@ -1,0 +1,7 @@
+D:\T0342\C#\RequestTest1\obj\Debug\RequestTest1.csprojAssemblyReference.cache
+D:\T0342\C#\RequestTest1\obj\Debug\RequestTest1.csproj.CoreCompileInputs.cache
+D:\T0342\C#\RequestTest1\bin\Debug\RequestTest1.exe.config
+D:\T0342\C#\RequestTest1\bin\Debug\RequestTest1.exe
+D:\T0342\C#\RequestTest1\bin\Debug\RequestTest1.pdb
+D:\T0342\C#\RequestTest1\obj\Debug\RequestTest1.exe
+D:\T0342\C#\RequestTest1\obj\Debug\RequestTest1.pdb
